@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Writing code since my early university days.<br>📚 I have a background of embedded engineering and .NET development from two dynamic internships.<br>🎯 Goals: I want to improve on my coding skills and eventually progress through on my software developer career.</p>
+<p align="left">✨ Writing code since my early university days.<br>📚 I have a background of embedded engineering and .NET development from two dynamic internships.<br>🎯 My goals are to improve my coding skills and eventually advance in my software development career.</p>
 
 ###
 
@@ -29,6 +29,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
+
+###
+
+<h2 align="left">Socials</h2>
 
 ###
 
