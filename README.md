@@ -47,11 +47,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ErdagEge&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 
 <!---
 ErdagEge/ErdagEge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
