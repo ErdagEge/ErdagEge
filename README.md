@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Developer / Electrical & Electronics Engineer</p>
+<p align="left">Software Developer / Electrical & Electronics Engineer / Podcaster / Storyteller / Worldbuilder</p>
 
 ###
 
