@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Writing code since my high school days.<br>📚 I have a background of embedded engineering and .NET development and frontend development from three dynamic internships.<br>🎯 My goals are to improve my coding skills and eventually advance in my software development career.</p>
+<p align="left">✨ Writing code since my high school days.<br>📚 I have a background of embedded engineering and .NET development and frontend development from three dynamic internships.<br>🎯 My goals are to improve my coding skills with fun projects and advance in my software development career.</p>
 
 ###
 
