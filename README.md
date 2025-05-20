@@ -47,6 +47,7 @@
 
 ###
 
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=1sc5h5ffin9go2cbl5o3v977k)
 
 <!---
 ErdagEge/ErdagEge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
