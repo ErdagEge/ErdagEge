@@ -1,4 +1,4 @@
-<h1 align="center">Hello, this is Ege Erdağ</h1>
+<h1 align="center">Hello, this is Ege</h1>
 <h3 align="center">A driven software developer</h3>
 
 - 🔭 I’m currently working on [website-aegean](https://github.com/ErdagEge/website-aegean)
