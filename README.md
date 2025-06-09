@@ -4,7 +4,7 @@ I'm a driven software developer with experience in `.NET`, `HTML/CSS`, `JavaScri
 
 ## 🔭 What I'm currently working on
 
-* Developing my personal website using **Next.js**, focused on minimalist design and clear navigation.
+* Developing my personal website, focused on minimalist design and clear navigation.
 * Building a creative podcast archive platform to organize and share engaging cultural and philosophical content from my beloved podcast Açık Büfe Diyalog. Check it out [here](https://erdagege.github.io/podcast-archive/).
 * Exploring worldbuilding and creative writing projects that fuse art, storytelling, and interactive elements.
 
