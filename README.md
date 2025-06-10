@@ -4,13 +4,9 @@ I'm a driven software developer with experience in `.NET`, `HTML/CSS`, `JavaScri
 
 ## 🔭 What I'm currently working on
 
-* Developing my personal website, focused on minimalist design and clear navigation.
+* Building an AI-assisted app named CineMCP. CineMCP is a smart movie recommendation web app that personalizes suggestions using user preferences, mood, and real-time movie data from TMDB. It uses a custom-built Model Context Protocol (MCP) to dynamically generate structured prompts, optionally powered by OpenAI. The frontend is built with vanilla JS, and the backend is a modular Node.js + Express server. Lightweight, clean, and easily extendable.
 * Building a creative podcast archive platform to organize and share engaging cultural and philosophical content from my beloved podcast Açık Büfe Diyalog. Check it out [here](https://erdagege.github.io/podcast-archive/).
 * Exploring worldbuilding and creative writing projects that fuse art, storytelling, and interactive elements.
-
-## 🌱 Currently Learning
-
-* Sharpening my skills in responsive web design through Next.js.
 
 ## 🎧 Check out my Podcast
 
