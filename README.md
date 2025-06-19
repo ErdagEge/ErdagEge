@@ -9,7 +9,7 @@ I'm a driven software developer with experience in `.NET`, `HTML/CSS`, `JavaScri
 ### 📚 [BookTracker](https://github.com/ErdagEge/book-tracker-app)
 A full-stack web app that lets you search, rate, review, and track books you've read — using the Google Books API, React, Express, and MongoDB. It supports adding start/finish dates, inline editing, and live CRUD operations. Fast, clean, and ready for more.
 
-### 🎬 CineMCP
+### 🎬 [CineMCP](https://cinemcp-backend.onrender.com)
 An AI-assisted movie recommendation web app that personalizes suggestions using user preferences, mood, and real-time movie data from TMDB. Built with vanilla JavaScript (frontend) and modular Node.js/Express (backend), powered by a custom Model Context Protocol (MCP) with OpenAI integration.
 
 ### 🎙️ [Podcast Archive Platform](https://erdagege.github.io/podcast-archive/)
@@ -28,8 +28,8 @@ Exploring speculative fiction and interactive storytelling through a worldbuildi
 
 ## 🛠 Technologies & Tools
 
-`.NET` | `C#` | `Next.js` | `React` | `TypeScript` | `JavaScript` | `Node.js` | `Express`  
-`MongoDB` | `HTML5/CSS3` | `Python` | `SQL` | `Git` | `RaspberryPi` | `Vite` | `Firebase`  
+`.NET` | `C#` | `Next.js` | `React` | `TypeScript` | `JavaScript` | `Node.js` | `Express` | `Python` 
+`MongoDB` | `HTML5/CSS3` | `SQL` | `Git` | `RaspberryPi` | `Vite` | `Firebase` | `Arduino` | `RaspberryPi` 
 
 ---
 
