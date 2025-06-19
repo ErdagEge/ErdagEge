@@ -1,6 +1,6 @@
 # Hi, I'm Ege! 👋
 
-I'm a driven software developer with experience in `.NET`, `JavaScript`, and `Python`. I love problem solving, creating intuitive and engaging web experiences and am deeply interested in blending technology with thoughtful design.
+I'm a driven software developer with professional working experience in `.NET`, `JavaScript`, and `Python`. I love problem solving, creating intuitive and engaging web experiences and am deeply interested in blending technology with thoughtful design.
 
 ---
 
