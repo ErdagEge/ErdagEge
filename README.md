@@ -28,7 +28,7 @@ Exploring speculative fiction and interactive storytelling through a worldbuildi
 
 ## 🛠 Technologies & Tools
 
-`.NET` | `C#` | `Next.js` | `React` | `TypeScript` | `JavaScript` | `Node.js` | `Express` | `Python` 
+`.NET` | `C#` | `Next.js` | `React` | `TypeScript` | `JavaScript` | `Node.js` | `Express` | `Python` |
 `MongoDB` | `HTML5/CSS3` | `SQL` | `Git` | `RaspberryPi` | `Vite` | `Firebase` | `Arduino` | `RaspberryPi` 
 
 ---
