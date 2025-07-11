@@ -12,6 +12,10 @@ A full-stack web app that lets you search, rate, review, and track books you've 
 ### 🎬 [CineMCP](https://cinemcp-backend.onrender.com)
 An AI-assisted movie recommendation web app that personalizes suggestions using user preferences, mood, and real-time movie data from TMDB. Built with vanilla JavaScript (frontend) and modular Node.js/Express (backend), powered by a custom Model Context Protocol (MCP) with OpenAI integration.
 
+### 🌌 [Astrophage Tracker](https://github.com/ErdagEge/astrophage-tracker)
+
+Sci-fi themed, single-page React infographic dashboard that monitors solar irradiance on Earth using real NASA POWER API. Inspired by Project Hail Mary, the app simulates the fictional spread of "astrophage" by analyzing real-time energy loss.
+
 ### 🎙️ [Podcast Archive Platform](https://erdagege.github.io/podcast-archive/)
 A creative podcast archive platform to organize and share cultural and philosophical content from my podcast **Açık Büfe Diyalog**. Built for clarity, long-term access, and themed browsing.
 
