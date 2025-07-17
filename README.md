@@ -16,6 +16,12 @@ An AI-assisted movie recommendation web app that personalizes suggestions using 
 
 Sci-fi themed, single-page React infographic dashboard that monitors solar irradiance on Earth using real NASA POWER API. Inspired by Project Hail Mary, the app simulates the fictional spread of "astrophage" by analyzing real-time energy loss.
 
+### ♟️ [Chess Endgame Trainer](https://github.com/ErdagEge/chess-endgame-trainer)
+An interactive training tool that helps players master chess endgames using realistic scenarios. Built with React, TypeScript, and Stockfish, it lets users play out key endgame positions with draggable boards and auto-evaluation.
+
+### ⛅ [Weather App](https://github.com/ErdagEge/weather-app)
+A minimalist, responsive weather dashboard built with React and OpenWeatherMap API. It displays current, daily, and hourly forecasts with smooth animations and temperature toggles (C°/F°), using modular, clean architecture and Vite.
+
 ### 🎙️ [Podcast Archive Platform](https://erdagege.github.io/podcast-archive/)
 A creative podcast archive platform to organize and share cultural and philosophical content from my podcast **Açık Büfe Diyalog**. Built for clarity, long-term access, and themed browsing.
 
@@ -32,11 +38,11 @@ Exploring speculative fiction and interactive storytelling through a worldbuildi
 
 ## 🛠 Technologies & Tools
 
-`.NET` | `C#` | `Next.js` | `React` | `TypeScript` | `JavaScript` | `Node.js` | `Express` | `Python` |
+`TypeScript` | `JavaScript` | `.NET` | `C#` | `Next.js` | `React` | `Node.js` | `Express` | `Python` |
 `MongoDB` | `HTML5/CSS3` | `SQL` | `Git` | `RaspberryPi` | `Vite` | `Firebase` | `Arduino` | `RaspberryPi` 
 
 ---
 
 ## 🤝 Let's Connect
 
-Feel free to check out my projects, contribute, or reach out if you share similar interests!
+Feel free to check out my projects, contribute, or reach out if you share similar interests
