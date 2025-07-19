@@ -39,7 +39,7 @@ Exploring speculative fiction and interactive storytelling through a worldbuildi
 ## 🛠 Technologies & Tools
 
 `TypeScript` | `JavaScript` | `.NET` | `C#` | `Next.js` | `React` | `Node.js` | `Express` | `Python` |
-`MongoDB` | `HTML5/CSS3` | `SQL` | `Git` | `RaspberryPi` | `Vite` | `Firebase` | `Arduino` | `RaspberryPi` 
+`MongoDB` | `HTML5/CSS3` | `SQL` | `Git` | `RaspberryPi` | `Vite` | `Firebase` | `Arduino` 
 
 ---
 
