@@ -1,6 +1,6 @@
 # Hi, I'm Ege! 👋
 
-I'm a software developer experienced in creating scalable web applications and interactive user interfaces with `.NET`, `JavaScript` (mainly with `React`/`Next.js` and `Node.js`/`Express`), alongside embedded programming experience with `Python` on `Raspberry Pi`. I enjoy problem solving, creating intuitive and engaging web experiences and am deeply interested in blending technology with thoughtful, impactful design.
+I'm a driven software developer experienced in creating scalable web applications and interactive user interfaces with `.NET`, `JavaScript` (mainly with `React`/`Next.js` and `Node.js`/`Express`), alongside embedded programming experience with `Python` on `Raspberry Pi`. I enjoy problem solving, creating intuitive and engaging web experiences and am deeply interested in blending technology with thoughtful, impactful design.
 
 ---
 
