@@ -9,6 +9,9 @@ My personal portfolio website built with Next.js, Tailwind CSS, and TypeScript. 
 
 ## 🔭 What I'm currently working on
 
+### 🍿 [Movie Night Negotiator](https://github.com/ErdagEge/movie-night-negotiator)
+Group movie picker using social-choice voting + LLM rationale
+
 ### 📚 [BookTracker](https://github.com/ErdagEge/book-tracker-app)
 A full-stack web app that lets you search, rate, review, and track books you've read — using the Google Books API, React, Express, and MongoDB. It supports adding start/finish dates, inline editing, and live CRUD operations. Fast, clean, and ready for more.
 
