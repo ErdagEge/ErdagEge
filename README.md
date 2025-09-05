@@ -28,13 +28,14 @@ An interactive training tool that helps players master chess endgames using real
 ### ⛅ [Weather App](https://github.com/ErdagEge/weather-app)
 A minimalist, responsive weather dashboard built with React and OpenWeatherMap API. It displays current, daily, and hourly forecasts with smooth animations and temperature toggles (C°/F°), using modular, clean architecture and Vite.
 
+
 > More in pinned repos or on my repo tab.
 
 ---
 
 ## Technologies & Tools
 
-`TypeScript` | `JavaScript` | `.NET` | `C#` | `Next.js` | `React` | `Node.js` | `Express` | `Python` |
+`TypeScript` | `JavaScript` | `.NET` | `C#` | `Next.js` | `React` | `Node.js` | `Express` | `Python` | <br>
 `PostgreSQL` | `MySQL` | `NoSQL` | `MongoDB` | `Firebase` | `Entity Framework` | `REST` | `Tailwind` |
 
 ---
