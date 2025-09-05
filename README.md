@@ -36,7 +36,7 @@ A minimalist, responsive weather dashboard built with React and OpenWeatherMap A
 ## Technologies & Tools
 
 `TypeScript` | `JavaScript` | `.NET` | `C#` | `Next.js` | `React` | `Node.js` | `Express` | `Python`  <br>
-`PostgreSQL` | `MySQL` | `NoSQL` | `MongoDB` | `Firebase` | `Entity Framework` | `REST` | `Tailwind` 
+`PostgreSQL` | `MySQL` | `NoSQL` | `MongoDB` | `Firebase` | `Entity Framework` | `REST` | `Tailwind` | `Power BI` 
 
 ---
 
