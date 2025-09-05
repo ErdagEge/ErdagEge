@@ -1,13 +1,13 @@
 # Hi, I'm Ege! 👋
 
-I'm a driven software developer experienced in creating scalable web applications and interactive user interfaces with `.NET`, `JavaScript` (mainly with `React`/`Next.js` and `Node.js`/`Express`), alongside embedded programming experience with `Python` on `Raspberry Pi`. I enjoy problem solving, creating intuitive and engaging web experiences and am deeply interested in blending technology with thoughtful, impactful design.
+Software Developer (EE background) focused on building clean, performant web apps and data-aware backends. I enjoy turning messy real-world problems into simple UIs and well-structured APIs. Recently exploring AI-assisted workflows (MCP), practical data modeling, and production hardening.
 
-### ⭐ [MyPortfolio](https://github.com/ErdagEge/portfolio) (work in progress 🚧⏳🔜)
-My personal portfolio website built with Next.js, Tailwind CSS, and TypeScript. Showcasing projects, resume, and blog.
+- 🔭 Current focus: **Movie Night Negotiator** (Next.js, Supabase Postgres), **CineMCP** (AI-assisted movie recs with MCP), **BookTracker** (full-stack React/Express/MongoDB).
+- 🎙️ I also host a culture/philosophy podcast: [**Açık Büfe Diyalog**](https://open.spotify.com/show/5IkatgeB5ZBbbAADZC9Tty?si=8fc45b383d6c40f5).
 
 ---
 
-## 🔭 What I'm currently working on
+## What I'm currently working on
 
 ### 🍿 [Movie Night Negotiator](https://github.com/ErdagEge/movie-night-negotiator)
 Pick a movie together. Create a lobby, everyone adds titles and ranks them, and the app computes a fair winner (Borda). It’s multiplayer, live, and free-tier friendly. Optional AI provides a short “why this fits everyone” rationale when you finalize.
@@ -28,27 +28,17 @@ An interactive training tool that helps players master chess endgames using real
 ### ⛅ [Weather App](https://github.com/ErdagEge/weather-app)
 A minimalist, responsive weather dashboard built with React and OpenWeatherMap API. It displays current, daily, and hourly forecasts with smooth animations and temperature toggles (C°/F°), using modular, clean architecture and Vite.
 
-### 🎙️ [Podcast Archive Platform](https://erdagege.github.io/podcast-archive/)
-A creative podcast archive platform to organize and share cultural and philosophical content from my podcast **Açık Büfe Diyalog**. Built for clarity, long-term access, and themed browsing.
-
-### ✍️ Creative Writing & Worldbuilding
-Exploring speculative fiction and interactive storytelling through a worldbuilding project that merges visual art, narrative, and mechanics inspired by fantasy themes.
+> More in pinned repos or on my repo tab.
 
 ---
 
-## 🎧 Check out my Podcast
-
-🎙️ **[Açık Büfe Diyalog](https://open.spotify.com/show/5IkatgeB5ZBbbAADZC9Tty?si=9f79a7cac1de40cc)** — where we explore culture, philosophy, and society with curiosity and critical thinking.
-
----
-
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 `TypeScript` | `JavaScript` | `.NET` | `C#` | `Next.js` | `React` | `Node.js` | `Express` | `Python` |
-`MongoDB` | `HTML5/CSS3` | `SQL` | `Git` | `RaspberryPi` | `Vite` | `Firebase` | `Arduino` 
+`PostgreSQL` | `MySQL` | `NoSQL` | `MongoDB` | `Firebase` | `Entity Framework` | `REST` | `Tailwind` |
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 Feel free to check out my projects, contribute, or reach out if you share similar interests
