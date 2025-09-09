@@ -7,7 +7,7 @@ Software Developer (EE background) focused on building clean, performant web app
 
 ---
 
-## What I'm currently working on
+## What I'm working on
 
 ### 🍿 [Movie Night Negotiator](https://github.com/ErdagEge/movie-night-negotiator)
 Pick a movie together. Create a lobby, everyone adds titles and ranks them, and the app computes a fair winner (Borda). It’s multiplayer, live, and free-tier friendly. Optional AI provides a short “why this fits everyone” rationale when you finalize.
