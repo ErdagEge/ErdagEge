@@ -13,7 +13,7 @@ Software Developer (EE background) focused on building clean, performant web app
 Pick a movie together. Create a lobby, everyone adds titles and ranks them, and the app computes a fair winner (Borda). It’s multiplayer, live, and free-tier friendly. Optional AI provides a short “why this fits everyone” rationale when you finalize.
 
 ### 📚 [BookTracker](https://github.com/ErdagEge/book-tracker-app)
-A full-stack web app that lets you search, rate, review, and track books you've read — using the Google Books API, React, Express, and MongoDB. It supports adding start/finish dates, inline editing, and live CRUD operations. Fast, clean, and ready for more.
+A full-stack web app that lets you search, rate, review, and track books you've read; using the Google Books API, React, Express, and MongoDB. It supports adding start/finish dates, inline editing, and live CRUD operations. Fast, clean, and ready for more.
 
 ### 🎬 [CineMCP](https://cinemcp-backend.onrender.com)
 An AI-assisted movie recommendation web app that personalizes suggestions using user preferences, mood, and real-time movie data from TMDB. Built with vanilla JavaScript (frontend) and modular Node.js/Express (backend), powered by a custom Model Context Protocol (MCP) with OpenAI integration.
