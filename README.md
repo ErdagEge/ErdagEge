@@ -2,7 +2,7 @@
 
 Software Developer (EE background) focused on building clean, performant web apps and data-aware backends. I enjoy turning messy real-world problems into simple UIs and well-structured APIs. Recently exploring AI-assisted workflows (MCP), practical data modeling, and production hardening.
 
-- 🔭 Current focus: **Movie Night Negotiator** (Next.js, Supabase Postgres), **CineMCP** (AI-assisted movie recs with MCP), **BookTracker** (full-stack React/Express/MongoDB).
+- 🔭 Current focus: **URL Shortener** (.NET 9 Minimal API, EF Core + SQLite, Swagger), **Movie Night Negotiator** (Next.js, Supabase Postgres).
 - 🎙️ I also host a culture/philosophy podcast: [**Açık Büfe Diyalog**](https://open.spotify.com/show/5IkatgeB5ZBbbAADZC9Tty?si=8fc45b383d6c40f5).
 
 ---
