@@ -1,8 +1,8 @@
 # Hi, I'm Ege! 👋
 
-Software Developer (EE background) focused on building clean, performant web apps and data-aware backends. I enjoy turning messy real-world problems into simple UIs and well-structured APIs. Recently exploring AI-assisted workflows (MCP), practical data modeling, and production hardening.
+Software Developer (EE background) focused on building clean, performant web apps and data-aware backends. I enjoy turning real problems into simple UIs and well-structured APIs. Recently exploring AI-assisted workflows, practical data modeling, and production hardening.
 
-- 🔭 Current focus: **Fantasy Court Vision** (React + Vite), **Movie Night Negotiator** (Next.js, Supabase Postgres).
+- 🔭 Current focus: **Fantasy Court Vision** (React + Vite).
 - 📝 I write about tech, cinema, and culture on my blog: [**Aegean Dispatch**](https://erdagege.github.io/aegean-dispatch/).
 - 🎙️ I also host a culture/philosophy podcast: [**Açık Büfe Diyalog**](https://open.spotify.com/show/5IkatgeB5ZBbbAADZC9Tty?si=8fc45b383d6c40f5).
 
